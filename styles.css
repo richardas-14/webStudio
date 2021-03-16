@@ -9,4 +9,5 @@ nav {
 }
 nav a {
     display: block;
+    color: red;
 }

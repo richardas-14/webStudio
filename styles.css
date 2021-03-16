@@ -1,0 +1,12 @@
+
+nav {
+    font-size: 1.2em;
+    margin: 100px 10px 10px 1000px;
+    padding: 20px;
+    background-color: rgb(251, 255, 0);
+    display: flex;
+    justify-content: space-between;
+}
+nav a {
+    display: block;
+}
